@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+Update format.yml to pull_request_target (#7460)

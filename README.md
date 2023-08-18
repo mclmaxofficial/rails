@@ -1,1 +1,1 @@
-OBB: update metrics (#7593)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)

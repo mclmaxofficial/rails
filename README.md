@@ -1,1 +1,1 @@
-Add Weights & Biases Docs integrations page (#7199)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)

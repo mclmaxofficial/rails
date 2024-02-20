@@ -1,1 +1,1 @@
-fix val each epoch
+Update pyproject.toml and Docs (#7274)

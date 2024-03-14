@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Fix PIL show() and save() (#8202)

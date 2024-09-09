@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Add Amazon Sagemaker Docs integrations page (#7293)

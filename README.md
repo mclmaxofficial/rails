@@ -1,1 +1,1 @@
-FROM pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime (#8104)
+Locked Tabs - Adds a lock switch to every tab inside the tab switcher that, when enabled, prevents the specific tab from being closed until the switch is disabled again
